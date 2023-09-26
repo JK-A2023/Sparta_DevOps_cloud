@@ -119,19 +119,33 @@
   - 
 
 1. Operating Expenses
-    1. Day-to-Day spending
+    1. Day-to-Day, ongoing expenses required to keep a business operational.
 2. Capital Expenditures
-    1. Long-term expenses
+    1. Long-term investments in long-term assets and projects that are expected to generate value over extended period of time.
 
 - Market share - What is the breakdown?
   - 
+
+![img.png](cloud_md_images/cloud_provider_market_share.png)
+
+(Source - Statista)
 
 - What are the 3 largest Cloud providers know for (What makes them popular?)
   - 
 
 1. Amazon AWS:
+   1. S3
+   2. EC2
+   3. CloudWatch
 2. Microsoft Azure:
+   1. Azure DevOps
+   2. VM's
+   3. Blob Storage
 3. Google CLoud Platform (GCP):
+   1. Cloud Computing
+   2. Cloud Storage
+   3. Kubernetes
+
 
 - What are the 4 pillars of DevOps? How do they link into the Cloud do you think?
   - 
