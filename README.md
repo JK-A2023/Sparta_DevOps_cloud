@@ -88,7 +88,7 @@
 ![img.png](cloud_md_images/paas.png)
 (Source - Red Hat)
 3. Software as a Service (SaaS)
-    1. Everything down to the current software being ran by the user is provided by the cloud service provider.
+    1. Everything down to the current software being run by the user is provided by the cloud service provider.
 ![img.png](cloud_md_images/saas.png)
 (Source - Red Hat)
 
@@ -98,6 +98,8 @@
 
 - Advantages/Disadvantages of the Cloud?
   - 
+
+### Advantages
 
 1. Agility:
    1. Easy to move between technologies.
@@ -115,11 +117,34 @@
    1. Move servers anywhere regionally to allow for closer proximity to clients.
    2. Move / set up at any time, anywhere.
 
+### Disadvantages
+
+1. Cost Spiralling:
+   1. Utilising resources unnecessarily in the background or accidentally, as the cost will continue to build while in use.
+2. Data Privacy:
+   1. Data being_ stored on the internet.
+   2. Evaluate if this is suitable for you.
+   3. Certain aspects of responsibility is on you, not just cloud provider.
+3. Requires internet access
+4. Limited Control:
+   1. Cloud provider controls some / much of your infrastructure.
+5. Data Laws / GDPR:
+   1. Must be careful when deploying, especially in various regions.
+6. Hybrid Cloud / Multi Cloud:
+   1. Can be hard to implement.
+7. Downtime:
+   1. Tends to be low but you have no control.
+8. Expertise needed:
+   1. Experts needed to operate on Cloud effectively.
+9. Performance:
+   1. Resources are still limited.
+
 - What is OpEx vs CapEx?
   -  
 
 1. Operating Expenses
-    1. Day-to-Day, ongoing expenses required to keep a business operational.
+   1. Day-to-Day, ongoing expenses required to keep a business operational.
+   2. Better at responding to change. 
 2. Capital Expenditures
     1. Long-term investments in long-term assets and projects that are expected to generate value over extended period of time.
 
@@ -149,3 +174,24 @@
 
 - Pillars of DevOps:
   - 
+
+1. Communication
+   1.
+2. Collaboration
+   1. 
+3. Automation
+   1. 
+4. Monitoring
+   1. 
+
+
+### Sparta Pillars:
+
+1. Ease of Use
+   1. 
+2. Flexibility
+   1. 
+3. Robustness
+   1. 
+4. Cost
+   1. 
