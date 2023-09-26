@@ -76,15 +76,26 @@
   - 
 
 1. Infrastructure as a Service (IaaS)
-    1. 
+   1. This means that the infrastructure is managed by the cloud provider.
+   2. Virtualization, servers, storage, networking are all provided and manager by the server provider.
+
+![img.png](cloud_md_images/iaas.png)
+(Source - Red Hat)
 2. Platform as a Service (PaaS)
-    1. 
+   1. This means that the hardware and application-software are provided by a service provider.
+   2. The user handles the applications that run on top of this platform.
+
+![img.png](cloud_md_images/paas.png)
+(Source - Red Hat)
 3. Software as a Service (SaaS)
-    1. 
+    1. Everything down to the current software being ran by the user is provided by the cloud service provider.
+![img.png](cloud_md_images/saas.png)
+(Source - Red Hat)
 
 ![img.png](cloud_md_images/cloud_service_models.png)
 
 (Source - Uniprint)
+
 - Advantages/Disadvantages of the Cloud?
   - 
 
