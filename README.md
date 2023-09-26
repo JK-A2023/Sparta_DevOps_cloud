@@ -65,7 +65,7 @@
 1. Public Clouds
     1. Cloud environment created from IT infrastructure not owned by the end user.
 2. Private Clouds
-    1. Soley dedicated to a single end user group, where the environment runs behind that user or group's firewall.
+    1. Solely dedicated to a single end user group, where the environment runs behind that user or group's firewall.
 3. Hybrid Clouds
     1. A seemingly single IT environment created from multiple environments connected through local area networks (LAN's).
 4. Multi-clouds
@@ -119,15 +119,19 @@
   - 
 
 1. Operating Expenses
-    1.
+    1. Day-to-Day spending
 2. Capital Expenditures
-    1.
+    1. Long-term expenses
 
 - Market share - What is the breakdown?
   - 
 
 - What are the 3 largest Cloud providers know for (What makes them popular?)
   - 
+
+1. Amazon AWS:
+2. Microsoft Azure:
+3. Google CLoud Platform (GCP):
 
 - What are the 4 pillars of DevOps? How do they link into the Cloud do you think?
   - 
