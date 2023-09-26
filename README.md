@@ -197,4 +197,4 @@
    1. Uptime. Can this be kept up towards 99.9% uptime?
    2. Will users be able to break software?
 4. Cost
-   1. How can we be as cost effective as possible.
+   1. How can we be as cost-effective as possible.
