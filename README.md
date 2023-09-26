@@ -116,7 +116,7 @@
    2. Move / set up at any time, anywhere.
 
 - What is OpEx vs CapEx?
-  - 
+  -  
 
 1. Operating Expenses
     1. Day-to-Day, ongoing expenses required to keep a business operational.
