@@ -188,10 +188,13 @@
 ### Sparta Pillars:
 
 1. Ease of Use
-   1. 
+   1. Is it easy to use?
+   2. If not, won't be used.
+   3. Make systems other can use to provide value.
 2. Flexibility
-   1. 
+   1. Industry changes quickly. Don't create systems that rely too heavily on systems that rely too heavily on one particular app / service, etc.
 3. Robustness
-   1. 
+   1. Uptime. Can this be kept up towards 99.9% uptime?
+   2. Will users be able to break software?
 4. Cost
-   1. 
+   1. How can we be as cost effective as possible.
