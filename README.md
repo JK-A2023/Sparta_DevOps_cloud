@@ -62,17 +62,29 @@
 - What are the 4 TYPES of Cloud?
   - 
 
+1. Public Clouds
+    1. Cloud environment created from IT infrastructure not owned by the end user.
+2. Private Clouds
+    1. Soley dedicated to a single end user group, where the environment runs behind that user or group's firewall.
+3. Hybrid Clouds
+    1. A seemingly single IT environment created from multiple environments connected through local area networks (LAN's).
+4. Multi-clouds
+    1. More than one cloud service, from more than one cloud vendor - public or private.
 
 
 - What are the different types of cloud SERVICE?
   - 
 
 1. Infrastructure as a Service (IaaS)
+    1. 
 2. Platform as a Service (PaaS)
+    1. 
 3. Software as a Service (SaaS)
+    1. 
 
 ![img.png](cloud_md_images/cloud_service_models.png)
 
+(Source - Uniprint)
 - Advantages/Disadvantages of the Cloud?
   - 
 
