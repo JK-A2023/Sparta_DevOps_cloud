@@ -141,13 +141,11 @@
    1. Azure DevOps
    2. VM's
    3. Blob Storage
-3. Google CLoud Platform (GCP):
+3. Google Cloud Platform (GCP):
    1. Cloud Computing
    2. Cloud Storage
    3. Kubernetes
 
 
-- What are the 4 pillars of DevOps? How do they link into the Cloud do you think?
+- Pillars of DevOps:
   - 
-
-Bonus: Can you find up to 3 case studies showing how businesses have migrated to the cloud or used the cloud to improve in some way?
